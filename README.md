@@ -1,4 +1,4 @@
-## Spectralizer
+## Spectralizer      obs    波形插件
 ### Spectralizer will not be developed anymore, if you're looking for an excellent replacement check out [Waveform](https://obsproject.com/forum/resources/waveform.1423/).
 
 ![nightly](https://github.com/univrsal/spectralizer/workflows/nightly/badge.svg)
